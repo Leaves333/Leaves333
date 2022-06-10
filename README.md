@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Leaves333
+- Hi, I’m @Leaves333
 - I do things from time to time
 
 <!---
